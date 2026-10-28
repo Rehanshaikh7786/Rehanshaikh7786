@@ -118,34 +118,54 @@ Completed hands-on learning across the modern AI engineering stack:
 
 Current interests include **LangGraph orchestration, CrewAI, AutoGen, RAG pipelines, tool-using agents and production AI systems**.
 
-## 🛠️ Tech Stack
+## Tools I Work With
 
-<div align="center">
+I prefer keeping the stack simple and choosing tools around the problem rather than forcing every project into the same framework.
 
-### AI • ML • Agents
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-7C3AED?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Software Engineering
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**AI & intelligent systems**
 
-### Cloud • DevOps • Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Python<br>
+LangChain / LangGraph<br>
+RAG & LLM applications<br>
+Hugging Face<br>
+OpenCV<br>
+CrewAI / AutoGen<br>
+MCP
 
-</div>
+</td>
+<td valign="top" width="33%">
+
+**Application development**
+
+FastAPI<br>
+JavaScript<br>
+React / Next.js<br>
+C++<br>
+REST APIs<br>
+SQL
+
+</td>
+<td valign="top" width="33%">
+
+**Infrastructure & data**
+
+AWS<br>
+Docker<br>
+Git & GitHub Actions<br>
+PostgreSQL<br>
+Supabase<br>
+SQLite<br>
+CI/CD
+
+</td>
+</tr>
+</table>
+
+> Most of my current work is around **Python + AI agents + APIs + AWS**.
 
 ## 🔬 Research & Innovation
 
