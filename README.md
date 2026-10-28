@@ -183,29 +183,6 @@ Full-Stack Engineering       █████████████████
 Research & Innovation        ████████████████░░░░  Exploring
 ```
 
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rehanshaikh7786&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github" alt="Rehan's GitHub stats">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehanshaikh7786&theme=github-dark&hide_border=true&background=00000000" alt="GitHub streak">
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rehanshaikh7786&bg_color=00000000&color=8b949e&line=00d9ff&point=ffffff&hide_border=true&area=true" alt="Contribution activity">
-
-</div>
-
-## 🐍 Contribution Network
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehanshaikh7786/Rehanshaikh7786/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehanshaikh7786/Rehanshaikh7786/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rehanshaikh7786/Rehanshaikh7786/output/github-snake.svg">
-</picture>
-</div>
-
 ## 🎯 What I'm Building Toward
 
 ```mermaid
